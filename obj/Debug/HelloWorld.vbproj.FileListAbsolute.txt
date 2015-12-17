@@ -1,0 +1,10 @@
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\Onel\Desktop\sample\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
